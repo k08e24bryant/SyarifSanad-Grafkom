@@ -20,9 +20,8 @@ Sesuai aturan studi kasus, karakter yang dirender diambil dari data berikut:
 ### Hasil Render
 
 Berikut adalah tampilan hasil rendering 3D dari glyph yang telah diimplementasikan:
+<img width="1289" height="935" alt="image" src="https://github.com/user-attachments/assets/e1c5ee86-0034-45cc-9da3-7513a0664c73" />
 
-\<img width="1289" height="935" alt="Hasil Render SY 7" src="<img width="1289" height="935" alt="image" src="https://github.com/user-attachments/assets/51aa0c0e-64aa-40de-b07f-f2df914c9296" />
-" /\>
 
 ### Implementasi & Fitur Teknis
 
